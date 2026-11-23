@@ -4,4 +4,4 @@ Disallow: /resources/
 Disallow: /privacy-policy/
 Disallow: /thank-you/
 
-Sitemap: https://www.rhillsfurnaceandairconditioning.com/sitemap.xml
+Sitemap: https://rhillsfurnaceandairconditioning.com/sitemap.xml
